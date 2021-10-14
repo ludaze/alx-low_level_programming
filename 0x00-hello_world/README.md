@@ -1,0 +1,1 @@
+first directory where i begin coding in c
