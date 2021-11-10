@@ -1,0 +1,1 @@
+starting with memory allocations and its basics in c.
