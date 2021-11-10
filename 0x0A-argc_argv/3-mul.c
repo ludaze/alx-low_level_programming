@@ -4,6 +4,9 @@
   *main - prints result of multiplication followed by a new line.
   *@argc: number of arguments passed.
   *@argv: array of size argc containing arguments passed.
+  *@num1: the first number.
+  *@num2: the second number.
+  *@mul: the product.
   *
   *Return: 0 on success.
   *1 on error.
